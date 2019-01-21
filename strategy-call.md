@@ -20,15 +20,13 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Brian Gubernick and my real estate team, Homehelper Consultants at KW Realty Phoenix, has sold over 3,000 homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>I also share with you what we’re doing that works to generate and sales.</p>
+<p>I also share with you what we’re doing that works to generate leads and sales.</p>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
@@ -40,14 +38,11 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="quote">In my first year in the business I had trouble creating consistent business.  With so many tools and shiny objects in our industry, I found myself distracted looking for that silver bullet.  Fortunately I found Homehelper Consultants.  The team helped me a build a plan suited to my strengths and then held me accountable to that plan. I was able to surround myself with other like-minded agents on a similar journey, and in my first full year with the team I doubled my income from the previous year!</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="quote">I am so fortunate to be part of HhC…Brian, Natasha, and team have already figured out the recipe for success…why go out and reinvent the wheel?</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="quote">I’ve made more money in my business and experienced more free time in my personal life than in any year previously.  I’ve built my dream ‘business within a business’ but removed the stress I had experienced when I was attempting to do it on my own.</p>
 </div>
 <hr>
 
@@ -55,20 +50,21 @@ permalink: /strategy-call/
 
 <p>Why am I offering this?</p>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our brokerage.</p>
+<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team and brokerage.</p>
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
-<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
+<p><strong>I invite you to request a free one-on-one business strategy meeting with my partner, Natasha, and me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
 <p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
 <p>Sincerely,</p>
-<p>{{site.data.settings.client.name}}</p>
+
+<p>Brian Gubernick</p>
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
