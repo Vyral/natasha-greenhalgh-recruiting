@@ -11,7 +11,7 @@ client:
   title:
   license_number:
   about_markdown: |
-    Natasha has been working in Real Estate since 2005 and has an impressive program for getting homes sold. She is client focused, dedicated to quality service and takes pride in being a top notch communicator with excellent interpersonal skills. She has many hours of real estate education and has earned several designations including Certified Home Marketing Luxury Specialist and Certified Probate Real Estate Specialist. She is passionate about her career and loves making lasting relationships. Natasha has lived in the valley for over 20 years and enjoys everything our beautiful state has to offer.
+    In 2007, Brian Gubernick launched his real estate sales career in joining Keller Williams Realty and founding his team, Homehelper Consultants. From its inception, HhC experienced a great deal of success, specializing in assisting homeowners in financial distress. From 2009 to 2011, Brian was ranked #1 in the Office, top 10 in Keller Williams' Southwest Region, and top 100 in the nation. Homehelper Consultants expanded to Bellevue, WA in April 2011, Portland, OR, Oakland County, MI and Las Vegas, NV in 2013. Homehelper Consultants is one of Keller Williams Realty's top producing teams in the world and was a 2017 finalist for Inman's Innovator of the Year Award. Most recently HhC ranked #13 on the 2018 -19 Phoenix Business Journal’s list of Residential Real Estate Teams.
   market: Scottsdale
   brand: Home Helper Consultants
   brokerage: Keller Williams
@@ -74,6 +74,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Scottsdale Real Estate Video Blog
