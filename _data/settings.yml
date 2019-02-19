@@ -3,8 +3,14 @@ title: "Scottsdale's Best Real Estate Training"
 description: Natasha Greenhalgh, a top Real Estate Agent in Scottsdale, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
+  - title: Join Our Team
+    url: /join-our-team/
+  # - title: Events
+  #   url: #
   - title: Free Strategy Call
     url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 
 client:
   name: Natasha Greenhalgh
