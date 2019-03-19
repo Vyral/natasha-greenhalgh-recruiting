@@ -12,11 +12,11 @@ permalink: /strategy-call/
 
 <p>Need direction and focus to sell more homes?</p>
 
-<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
+<p>We will meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
 <p><strong>We know how challenging it is to sell real estate.</strong></p>
 
-<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
+<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, we will tell you).</p>
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
@@ -24,11 +24,11 @@ permalink: /strategy-call/
 
 <p>We want to help you sell more homes.</p>
 
-<p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what We would do in your situation to sell more homes.</p>
+<p>We will learn about your needs, goals, and why you started selling real estate. We are happy to offer our insight on what We would do in your situation to sell more homes.</p>
 
 <p>We also share with you what we’re doing that works to generate leads and sales.</p>
 
-<p>Once We understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
+<p>Once We understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), We can help you write a business plan tailored just for you.</p>
 
 <p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
 
@@ -36,7 +36,7 @@ permalink: /strategy-call/
 
 <hr>
 <div class="qanda">
-<p class="section-title">Here’s what a few agents say about working with me…</p>
+<p class="section-title">Here’s what a few agents say about working with us…</p>
 
 <p class="quote">In my first year in the business I had trouble creating consistent business.  With so many tools and shiny objects in our industry, I found myself distracted looking for that silver bullet.  Fortunately I found Homehelper Consultants.  The team helped me a build a plan suited to my strengths and then held me accountable to that plan. I was able to surround myself with other like-minded agents on a similar journey, and in my first full year with the team I doubled my income from the previous year!</p>
 
@@ -50,15 +50,15 @@ permalink: /strategy-call/
 
 <p>Why are we offering this?</p>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team and brokerage.</p>
+<p>We will help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team and brokerage.</p>
 
-<p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
+<p>Let us be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
 <p>We also figure we’ll do business together someday and we would like to get to know you. We enjoy seeing real estate agents succeed. It’s fulfilling, and We love it.</p>
 
 <p><strong>We invite you to request a free one-on-one business strategy meeting.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<p>We have a questionnaire we would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
+<p>We have a questionnaire we would like you fill out so that when we meet so we're prepared to offer you specific advice. When you request a call, we will email it to you to complete before the meeting.</p>
 
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
