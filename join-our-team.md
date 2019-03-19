@@ -39,7 +39,7 @@ permalink: /join-our-team/
 <li>And much more! </li>
 </ul></p>
 
-<p>We are so confident in our systems that we offer every new agent a $100,000 income guarantee—no strings attached. If you perform to our team’s standards and honor our model each day, you will make $100,000 in your first year, or we’ll pay you the difference. </p>
+<p>We are so confident in our systems that we offer every new agent a <strong>$100,000 income guarantee</strong>—no strings attached. If you perform to our team’s standards and honor our model each day, you will make $100,000 in your first year, or we’ll pay you the difference. </p>
 
 <p>When you join us, your path to success starts right away. We’ll send you through our intensive onboarding system, get you involved in our Sphere in Gear campaign, and immerse you into our company culture. </p>
 
