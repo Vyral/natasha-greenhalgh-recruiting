@@ -25,7 +25,7 @@ permalink: /join-our-team/
 
 <p>It’s no wonder that so many agents don’t make it. <strong>Proper sales training is a rare thing in our business.</strong> Not to mention that most agents are left with meager paychecks even after all of their best efforts. On top of that, the money agents are left with is often improperly allocated across their resources. It becomes a vicious cycle.</p>
 
-<p>With all of these issues weighing you down, you’ve found yourself up at 3 a.m. wondering where your career is headed. You’ve also probably tried a number of solutions with no luck. If what I’ve been describing sounds familiar, I’ve got good news. <strong>My name is Natasha Greenhalgh, and since starting Homehelper Consultants in 2007, I’ve helped many agents just like you get on the path for success in real estate.</strong> </p>
+<p>With all of these issues weighing you down, you’ve found yourself up at 3 a.m. wondering where your career is headed. You’ve also probably tried a number of solutions with no luck. If what I’ve been describing sounds familiar, I’ve got good news. <strong>My name is Natasha Greenhalgh, and since starting with Keller Williams Realty in 2005, I’ve helped many agents just like you get on the path for success in real estate.</strong> </p>
 
 <p>Our agents have sold thousands of homes using our proven systems, and we’d like you to join us as we continue selling even more. Homehelper Consultants has been listed among Phoenix’s top 10, and the nation’s top 250, performing teams for several years now. We’ve been so successful, in fact, that the same models we use to drive our business are currently being taught across the country to other aspiring teams. </p>
 
