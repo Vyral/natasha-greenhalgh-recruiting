@@ -21,7 +21,7 @@ youtube_code: lZG-i2iuSuk
 
 {% include youtube.html %}
 
-Here on the Home Helper Consultants’ sales team, we make a point to study our all numbers. What does that mean?
+Here on the Home Helper Consultants’ sales team, we make a point to study all our numbers. What does that mean?
 
 Well, we **start with how many minutes you spend on the phone to prospect for new leads.** We look at how many people you have contacted through those efforts and how many of those contacts are added to the database as nurtures (or people you’re going to keep in touch with). Then we examine how many appointments you’ve made from those leads, how many you’re actually attending, and how many of those appointments you’re converting into a signed listing or buyer agreement.
 
@@ -33,10 +33,10 @@ Well, we **start with how many minutes you spend on the phone to prospect for ne
 
 In that case, scripting might be the problem, meaning that the agent with a low ratio between their contacts and the number of leads added to the database would need to focus on their script-reading and role-playing skills.
 
-Now let’s say that you had X number of appointments, but you weren’t listing any sellers or buyers—what might the problem be there? The problem might again relate to scripting, but this time, with regards to your listing presentation and your closing abilities. 
+Now let’s say that you had X number of appointments, but you weren’t listing any sellers or buyers—what might the problem be there? The problem might again relate to scripting, but this time, it has to do with your listing presentation and your closing abilities.&nbsp;
 
 Additionally, **we sometimes find that the appointments we may be setting are incredibly weak,** and that with them, we weren’t setting ourselves up for success.
 
 Whether you’re a new agent or an experienced one, you need to be tracking your numbers—**not just the number of closings, but rather all of the lead metrics that come before closing,** as well.
 
-If you have any questions about tracking your numbers, feel free to reach out to us. We’d be glad to share our knowledge and tips with you to help you identify (and rectify) the deficiencies in your business.<br>
+If you have any questions about tracking your numbers, feel free to reach out to us. We’d be glad to share our knowledge and tips with you to help you identify (and rectify) the deficiencies in your business.
