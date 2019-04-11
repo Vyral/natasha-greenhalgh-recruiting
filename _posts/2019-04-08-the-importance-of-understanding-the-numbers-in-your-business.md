@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lZG-i2iuSuk
+youtube_code: zOi1L7omKik
 ---
 
 {% include youtube.html %}
@@ -33,7 +33,7 @@ Well, we **start with how many minutes you spend on the phone to prospect for ne
 
 In that case, scripting might be the problem, meaning that the agent with a low ratio between their contacts and the number of leads added to the database would need to focus on their script-reading and role-playing skills.
 
-Now let’s say that you had X number of appointments, but you weren’t listing any sellers or buyers—what might the problem be there? The problem might again relate to scripting, but this time, it has to do with your listing presentation and your closing abilities.&nbsp;
+Now let’s say that you had X number of appointments, but you weren’t listing any sellers or buyers—what might the problem be there? The problem might again relate to scripting, but this time, it has to do with your listing presentation and your closing abilities. 
 
 Additionally, **we sometimes find that the appointments we may be setting are incredibly weak,** and that with them, we weren’t setting ourselves up for success.
 
