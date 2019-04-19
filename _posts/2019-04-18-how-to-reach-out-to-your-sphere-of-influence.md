@@ -16,7 +16,7 @@ youtube_code: RH2U-W2rX7M
 
 {% include youtube.html %}
 
-Today we’re excited to talk to you about your sphere of influence. Over the years, we’ve both learned that the No. 1 source of business for real estate professionals should be from those individuals who know, like and trust them, aka their “sphere.”
+Today we’re excited to talk to you about your sphere of influence. Over the years, we’ve both learned that the No. 1 source of business for real estate professionals should be from those individuals who know, like, and trust them, aka their “sphere.”
 
 **At Home Helper Consultants, we like to implement a touch campaign for each person in our SOI.** We touch them intentionally 21 times per year through a mix of texts, phone calls, emails, personal meetings, and more.&nbsp;
 
@@ -26,7 +26,7 @@ If you fail to interact with them every few weeks, individuals will fail to reco
 
 **We’re not as much focused on the content as we are about consistency and frequency.** The intentional activity behind it is what creates business.
 
-If you’re a real estate agent, you probably have your name, phone number, and title in your signature. You don’t have to run around and ask everyone who they know who wants to buy and sell as long as you’re making frequent touches.
+If you’re a real estate agent, you probably have your name, phone number, and title in your signature. You don’t have to run around and ask everyone about potential buyers and sellers as long as you’re making frequent touches.
 
 One thing we do is called Friendsday Wednesday. This week, we’re writing personalized notes every day to people in our SOI. I have one gal who is writing a joke, and that’s the only thing that she’s putting. No business card, no ad. The endgame is to have people think about you when they think about real estate.
 
