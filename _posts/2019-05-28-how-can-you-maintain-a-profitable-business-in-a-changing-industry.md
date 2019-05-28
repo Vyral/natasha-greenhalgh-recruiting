@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Maintain a Profitable Business in a Changing Industry?
-date: 2019-05-28 18:54:36
+date: 2019-05-28 18:54:00
 tags:
 excerpt: >-
   The real estate industry is changing, but there are ways you can adapt and
