@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for Our Real Estate Lunch & Learn Event
-date: 2019-06-10 16:50:07
+date: 2019-06-10 16:50:00
 tags:
 excerpt: >-
   You’ve been invited to join us for our upcoming Real Estate Lunch and Learn
