@@ -20,7 +20,7 @@ youtube_code: j0JYQaOHjsw
 
 If you’re receiving this message, then congratulations\! You’re formally invited to join us for our upcoming **Real Estate Lunch and Learn** event on Thursday, June 20th.
 
-This event is intended to help both new and experienced real estate agents who are tired of the status quo to change things up a bit based on our experience selling over 3,000 homes over the past decade. We’ll give you the exact recipe for our success helps us net over a million dollars a year.
+This event is intended to help both new and experienced real estate agents who are tired of the status quo to change things up a bit based on our experience selling over 3,000 homes over the past decade. We’ll give you the exact recipe for our success, which helps us net over a million dollars a year.
 
 Furthermore, Natasha will discuss **how to recommit yourself to the real estate business** by giving you some tips and tricks to really make your business flourish.
 
