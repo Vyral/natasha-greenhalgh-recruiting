@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Help Our Clients Win Against Multiple Offers
-date: 2019-09-24 19:56:41
+date: 2019-09-24 19:56:00
 tags:
 excerpt: >-
   Competing against multiple offers can be stressful for homebuyers, but we have
@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/gubernick-youtube.jpg
 youtube_code: RtIg9UA-JJk
 ---
 
-{% include youtube.html %}<p style="text-align: center;"><em>Competing against multiple offers can be stressful for homebuyers, but we have the experience and knowledge to help our clients always come out on top.</em></p> 
+{% include youtube.html %}&lt;p style="text-align: center;"&gt;*Competing against multiple offers can be stressful for homebuyers, but we have the experience and knowledge to help our clients always come out on top.*&lt;/p&gt;
 
 Over the years, we’ve been in many multiple-offer scenarios, and we’ve consistently been able to come out ahead.
 
