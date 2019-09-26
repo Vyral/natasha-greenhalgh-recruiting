@@ -17,13 +17,13 @@ youtube_alternate_image: /uploads/gubernick-youtube.jpg
 youtube_code: RtIg9UA-JJk
 ---
 
-{% include youtube.html %}&lt;p style="text-align: center;"&gt;*Competing against multiple offers can be stressful for homebuyers, but we have the experience and knowledge to help our clients always come out on top.*&lt;/p&gt;
+{% include youtube.html %}*Competing against multiple offers can be stressful for homebuyers, but we have the experience and knowledge to help our clients always come out on top.*
 
 Over the years, we’ve been in many multiple-offer scenarios, and we’ve consistently been able to come out ahead.
 
 **It all starts with setting the correct expectations with our buyers,** letting them know about the market we’re in, and what it will look like when we find the perfect home. Writing the offer and getting it accepted only gives us the opportunity to purchase the property, so we’re going to write offers.
 
-Next, we contact the listing agent, let them know about our buyers, why they love the home, and find out what’s important to the seller in an offer.
+Next, we contact the listing agent, let them know about our buyers, why our buyers love the home, and find out what’s important to the seller in an offer.
 
 {% include pullquote.html %}
 
