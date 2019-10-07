@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Are iBuyers Impacting Our Metro Phoenix Market?
-date: 2019-10-07 14:44:12
+date: 2019-10-07 14:44:00
 tags:
 excerpt: >-
   In our Phoenix area market, iBuyers have become increasingly prevalent. Today,
@@ -20,8 +20,6 @@ youtube_code: 5Lh6a1fNlwE
 {% include youtube.html %}
 
 <center>In our Phoenix area market, iBuyers have become increasingly prevalent. Today, let&rsquo;s discuss how agents should respond to this growing trend.</center>
-
-&nbsp;
 
 &nbsp;
 
