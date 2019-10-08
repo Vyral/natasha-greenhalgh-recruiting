@@ -19,7 +19,7 @@ youtube_code: 5Lh6a1fNlwE
 
 {% include youtube.html %}
 
-<center>In our Phoenix area market, iBuyers have become increasingly prevalent. Today, let&rsquo;s discuss how agents should respond to this growing trend.</center>
+<center><em>In our Phoenix area market, iBuyers have become increasingly prevalent. Today, let&rsquo;s discuss how agents should respond to this growing trend.</em></center>
 
 &nbsp;
 
