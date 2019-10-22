@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources to Broaden Your Horizons & Improve Your Services
-date:
+date: 2019-10-22 18:01:12
 tags:
 excerpt: How can you become your clients’ economist of choice? Find out today.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/gubernick-youtube-2.jpg
 youtube_code: emF6deMY_o8
 ---
 
-{% include youtube.html %}<center>How can you become your clients’ economist of choice? Find out today.</center>
+{% include youtube.html %}
+
+<center>How can you become your clients&rsquo; economist of choice? Find out today.</center>
+
+&nbsp;
 
 Our team takes pride in understanding what’s going on in our community and the economy as a whole. **Here’s a list of some of the tools and resources we’ve incorporated into our business so that we’re more knowledgeable than our competition when it comes to meeting with a buyer or seller:**
 
