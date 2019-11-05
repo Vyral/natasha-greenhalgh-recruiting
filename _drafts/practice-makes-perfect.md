@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/greenhalgh-youtube.jpg
 youtube_code: 0lp2vvduVvs
 ---
 
-{% include youtube.html %}As a real estate agent, it’s important to practice things like role playing and scripts so that you can be more effective as a salesperson. Here’s a quick look at some of the things we do.
+{% include youtube.html %}<center>As a real estate agent, it’s important to practice things like role playing and scripts so that you can be more effective as a salesperson. Here’s a quick look at some of the things we do.</center>
 
 To us in our real estate business, “practice makes perfect” means a lot of things. For example, we do script and role play practice on a daily basis so that we have a smooth delivery while prospecting and to ensure that we have the exact words to say in any situation.
 
