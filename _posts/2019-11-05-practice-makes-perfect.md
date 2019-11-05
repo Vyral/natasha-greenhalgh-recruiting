@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Practice Makes Perfect
-date: 2019-11-05 18:24:49
+date: 2019-11-05 18:24:00
 tags:
 excerpt: >-
   As a real estate agent, it’s important to practice things like role playing
