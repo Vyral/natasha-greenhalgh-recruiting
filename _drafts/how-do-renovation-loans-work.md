@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/gubernick-youtube-3.jpg
 youtube_code: 5VEt_wkRWks
 ---
 
-{% include youtube.html %}A renovation loan represents a fantastic opportunity for your savvy homebuyer clients. Here’s why.
+{% include youtube.html %}<center>A renovation loan represents a fantastic opportunity for your savvy homebuyer clients. Here’s why.</center>
 
 Today we’d like to talk about a very special topic: Renovation loans. These types of loans became popular in the day of short sales and foreclosures when a lot of houses were beat up and buyers couldn’t afford to come in and spend a lot of money fixing them up.
 
