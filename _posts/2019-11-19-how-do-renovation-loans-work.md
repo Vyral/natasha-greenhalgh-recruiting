@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/gubernick-youtube-3.jpg
-youtube_code: Lu58r8fQ0wY
+youtube_code: oH5vtk39KQk
 ---
 
 {% include youtube.html %}
