@@ -21,7 +21,7 @@ youtube_code: Lu58r8fQ0wY
 
 &nbsp;
 
-Today we’d like to talk about a very special topic: renovation loans. These types of loans became popular in the day of short sales and foreclosures when a lot of houses were beat up and buyers couldn’t afford to come in and spend a lot of money fixing them up.
+Today we’d like to talk about a very special topic: renovation loans. These types of loans became popular in the day of short sales and foreclosures when a lot of houses were beaten up and buyers couldn’t afford to come in and spend a lot of money fixing them.
 
 They went away a bit when our market changed, but now they’re back. This means that you should make sure that your buyers and lenders are aware because **this could be a great opportunity for someone to get a house that they may not have considered in the past.&nbsp;**
 
