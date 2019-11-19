@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Renovation Loans Work?
-date: 2019-11-19 18:25:36
+date: 2019-11-19 18:25:00
 tags:
 excerpt: >-
   A renovation loan represents a fantastic opportunity for your savvy homebuyer
@@ -21,7 +21,7 @@ youtube_code: 5VEt_wkRWks
 
 &nbsp;
 
-Today we’d like to talk about a very special topic: Renovation loans. These types of loans became popular in the day of short sales and foreclosures when a lot of houses were beat up and buyers couldn’t afford to come in and spend a lot of money fixing them up.
+Today we’d like to talk about a very special topic: renovation loans. These types of loans became popular in the day of short sales and foreclosures when a lot of houses were beat up and buyers couldn’t afford to come in and spend a lot of money fixing them up.
 
 They went away a bit when our market changed, but now they’re back. This means that you should make sure that your buyers and lenders are aware because **this could be a great opportunity for someone to get a house that they may not have considered in the past.&nbsp;**
 
@@ -33,6 +33,6 @@ An opportunity exists for homes that need a little work. Those homes are sitting
 
 **With this loan, you can buy a home for $150,000, finance $170,000 to include renovations, and finance these repairs to make the home look how you want.**
 
-Not all buyers have the vision to see a home that’s not so nice become a beautiful home. You’re going to have to go through the exercise of showing them homes that have been renovated already, and show them that this is what their home would look like if we renovated it too.
+Not all buyers have the ability to imagine a sub-optimal home transforming into a beautiful home. You’re going to have to go through the exercise of showing them homes that have been renovated already, and show them that this is what their home would look like if we renovated it too.
 
 If you have any questions for us about renovation loans or anything else related to the real estate business, don’t hesitate to reach out and give us a call or send us an email. We look forward to speaking with you soon.
