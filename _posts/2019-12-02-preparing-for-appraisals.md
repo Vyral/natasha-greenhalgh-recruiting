@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing for Appraisals
-date: 2019-12-02 17:48:36
+date: 2019-12-02 17:48:00
 tags:
 excerpt: >-
   What can agents do to boost their shot of securing a successful appraisal?
