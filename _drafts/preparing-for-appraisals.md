@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/gubernick-youtube-4.jpg
 youtube_code: dnXL3yTnPzA
 ---
 
-{% include youtube.html %}What can agents do to boost their shot of securing a successful appraisal? Follow these steps.&nbsp;
+{% include youtube.html %}<center>What can agents do to boost their shot of securing a successful appraisal? Follow these steps.&nbsp;</center>
 
 With prices rising in our market, there have been some strange appraisal issues showing up as of late. Thankfully, there are a few ways you can prepare for an appraisal to make sure it’s as accurate as possible.&nbsp;
 
