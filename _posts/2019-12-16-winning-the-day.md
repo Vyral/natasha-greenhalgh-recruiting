@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning the Day
-date:
+date: 2019-12-16 16:25:26
 tags:
 excerpt: >-
   If you really want to know whether you’re winning the day, define how many
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/gubernick-youtube-1-1.jpg
 youtube_code: 6KejDMLuiZw
 ---
 
-{% include youtube.html %}<center>If you really want to know whether you’re winning the day, define how many contacts you must have daily.</center>
+{% include youtube.html %}
+
+<center>If you really want to know whether you&rsquo;re winning the day, define how many contacts you must have daily.</center>
+
+&nbsp;
 
 How do you know if you’re winning the day?
 
