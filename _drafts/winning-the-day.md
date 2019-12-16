@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/gubernick-youtube-1-1.jpg
 youtube_code: 6KejDMLuiZw
 ---
 
-{% include youtube.html %}If you really want to know whether you’re winning the day, define how many contacts you must have daily.
+{% include youtube.html %}<center>If you really want to know whether you’re winning the day, define how many contacts you must have daily.</center>
 
 How do you know if you’re winning the day?
 
