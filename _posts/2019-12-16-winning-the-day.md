@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning the Day
-date: 2019-12-16 16:25:26
+date: 2019-12-16 16:25:00
 tags:
 excerpt: >-
   If you really want to know whether you’re winning the day, define how many
@@ -9,7 +9,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   To really know if you’re winning the day, define how many contacts you must
-  have on a daily basis.
+  have daily.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -33,6 +33,6 @@ The first is whether they show up on time for our morning meetings, script pract
 
 No matter what your method of lead generation is, we believe there’s one metric that determines your success: **the number of daily contacts you make.** Closings are a result of listings taken, which themselves are the result of appointments converted. The only way you get appointments is by adding to your database, and the only way you add to your database is to make contacts.&nbsp;
 
-So, to really know whether you’ve won the day, define how many contacts you must have on a daily basis.&nbsp;
+So, to really know whether you’ve won the day, define how many contacts you must have daily.&nbsp;
 
 If you’d like to talk more about this subject, or you have any other real estate questions, don’t hesitate to reach out to us. We’d love to help you.&nbsp;
