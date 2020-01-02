@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Making the Best Listing Presentation
-date:
+date: 2020-01-02 14:56:28
 tags:
 excerpt: 'If you want to make your listing presentation dazzle, follow these three tips.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/gubernick-youtube-2-1.jpg
 youtube_code: jg8HpT_Z5IM
 ---
 
-{% include youtube.html %}<center> If you want to make your listing presentation dazzle, follow these three tips.&nbsp;</center>
+{% include youtube.html %}
+
+<center>If you want to make your listing presentation dazzle, follow these three tips.&nbsp;</center>
+
+&nbsp;
 
 Here are three important tips to remember if you want to make your very best listing presentation:
 
