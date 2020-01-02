@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/gubernick-youtube-2-1.jpg
 youtube_code: jg8HpT_Z5IM
 ---
 
-{% include youtube.html %} If you want to make your listing presentation dazzle, follow these three tips.&nbsp;
+{% include youtube.html %}<center> If you want to make your listing presentation dazzle, follow these three tips.&nbsp;</center>
 
 Here are three important tips to remember if you want to make your very best listing presentation:
 
