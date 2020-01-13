@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Best Way to Market Your Listing on the MLS
-date:
+date: 2020-01-13 15:20:05
 tags:
 excerpt: There are a few keys to remember to best market your listing on the MLS.
 enclosure:
