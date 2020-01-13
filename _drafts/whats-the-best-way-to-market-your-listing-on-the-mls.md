@@ -13,7 +13,9 @@ youtube_alternate_image: /uploads/gubernick-youtube-3-1.jpg
 youtube_code: cV1UF-MeGAA
 ---
 
-{% include youtube.html %}<center>There are a few keys to remember to best market your listing on the MLS.&nbsp;</center>
+{% include youtube.html %}
+
+<center>There are a few keys to remember to best market your listing on the MLS.&nbsp;</center>
 
 &nbsp;
 
