@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/gubernick-email-4.jpg
 youtube_code: XL7kpHZt4Bs
 ---
 
-{% include youtube.html %}We’re discussing how to set goals and put systems in place to help you achieve them.
+{% include youtube.html %}<center>We’re discussing how to set goals and put systems in place to help you achieve them.</center> 
 
 Today we’re discussing goals and systems. **Many of us set goals but never bother to put a system in place to ensure we achieve them.** Here’s an idea: What if you didn’t even set a short-term goal? What if you just put a ton of systems in place, and did certain actions consistently?&nbsp;
 
