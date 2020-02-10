@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/gubernick-youtube-5.jpg
 youtube_code: cy_0hG8jvU4
 ---
 
-{% include youtube.html %}Instead of using open houses to fish for unrepresented buyers, use them as a great way to generate listings. Here’s how to do it.&nbsp;
+{% include youtube.html %}<center>Instead of using open houses to fish for unrepresented buyers, use them as a great way to generate listings. Here’s how to do it.&nbsp;</center>
 
 Agents typically think about open houses as opportunities to round up some unrepresented buyers. However, this is happening less and less in today’s market. Maybe it’s the case that more buyers already have representation, or maybe those who don’t want to be bothered are just getting smarter by auto-responding with “Oh, I already have an agent.”&nbsp;
 
