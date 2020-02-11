@@ -21,13 +21,11 @@ youtube_code: cy_0hG8jvU4
 
 &nbsp;
 
-&nbsp;
-
-Agents typically think about open houses as opportunities to round up some unrepresented buyers. However, this is happening less and less in today’s market. Maybe it’s the case that more buyers already have representation, or maybe those who don’t want to be bothered are just getting smarter by auto-responding with “Oh, I already have an agent.”&nbsp;
+Agents typically think about open houses as opportunities to round up some unrepresented buyers. However, this is happening less and less in today’s market. Maybe it’s the case that more buyers already have representation, or maybe those who don’t want to be bothered are just getting smarter by auto-responding with, “Oh, I already have an agent.”&nbsp;
 
 Regardless, you should **start seeing your open houses as an activity to generate potential listings.** Oftentimes, the activities leading up to the open house typically generate more business opportunities than the open house itself. That includes the conversations we have while inviting neighbors to the open house via door-knocking or phone calling.&nbsp;
 
-The ideal way to generate listings from an open house is to **start with door-knocking**. Have some sort of small invitation card—nothing too fancy, but thoughtful. Leave it behind in doors or mailboxes if no one answers. If they do open the door, let them know that you’re simply inviting them to an open house to see how your new listing compares to their house.&nbsp;
+The ideal way to generate listings from an open house is to **start with door-knocking**. Have some sort of small invitation card—nothing too fancy, but thoughtful. If no one answers, leave the card in the door or the mailbox. If they do open the door, let them know that you’re simply inviting them to an open house to see how your new listing compares to their house.&nbsp;
 
 {% include pullquote.html %}
 
