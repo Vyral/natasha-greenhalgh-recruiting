@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/gubernick-youtube-7.jpg
 youtube_code: urq2ESFSq6o
 ---
 
-{% include youtube.html %}Here are three tips to help you learn and remember people’s names.
+{% include youtube.html %}<center>Here are three tips to help you learn and remember people’s names.</center>
 
 Being able to remember people’s names is an important skill in the real estate industry, but it’s not something that comes naturally to everyone. We often think so hard about how we’re going to talk to clients about prices, objections, etc., that we forget to even do proper introductions. But beyond what information we provide to clients, we also need to consider how we make them feel.&nbsp; Today I’ll let Natasha educate us all with helpful tips to better recall the names of people we meet in the business.
 
